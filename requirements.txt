@@ -1,6 +1,16 @@
-streamlit>=1.28.0
+# Core
+streamlit
+
+#Data
 pandas
+
+# Plots
 plotly
+matplotlib
+
+# Ntlk
 nltk
+wordcloud
+
+# HTTP requests
 requests
-python-dotenv
